@@ -33,6 +33,7 @@ Developed by: T Danush Reddy
 Registeration Number : 212223040029
 
 ```
+```
 ## MainActivity.java
 
 package com.example.test;
@@ -88,7 +89,6 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-
 ```
 ## Activity_main.xml
 ```
@@ -129,7 +129,6 @@ public class MainActivity extends AppCompatActivity {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-
 ## OUTPUT
 <img width="1920" height="934" alt="1" src="https://github.com/user-attachments/assets/c22df1e5-b679-4ff5-b442-caf6285a7c92" />
 <img width="1585" height="993" alt="2" src="https://github.com/user-attachments/assets/49dcce46-f78e-4e76-8782-b176b76332ef" />
