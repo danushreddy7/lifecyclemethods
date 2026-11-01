@@ -33,9 +33,9 @@ Developed by: T Danush Reddy
 Registeration Number : 212223040029
 
 ```
-```
-## MainActivity.java
 
+## MainActivity.java
+```
 package com.example.test;
 
 import android.os.Bundle;
